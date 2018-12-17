@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90ef65a8-83c9-4c05-b634-3cb31baca1a3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/images/category.png" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/app.wpy" afterPath="$PROJECT_DIR$/src/app.wpy" />
       <change beforePath="$PROJECT_DIR$/src/pages/topics/index.wpy" afterPath="$PROJECT_DIR$/src/pages/topics/index.wpy" />
-      <change beforePath="$PROJECT_DIR$/src/pages/users/edit.wpy" afterPath="$PROJECT_DIR$/src/pages/users/edit.wpy" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,13 +14,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.wpy" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pages/topics/index.wpy">
+      <file leaf-file-name="show.wpy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/topics/show.wpy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="145" column="23" lean-forward="false" selection-start-line="145" selection-start-column="6" selection-end-line="145" selection-end-column="23" />
+            <state relative-caret-position="493">
+              <caret line="87" column="9" lean-forward="false" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
               <folding>
-                <element signature="e#3746#3769#0" expanded="true" />
+                <element signature="e#1381#1404#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,11 +53,12 @@
         <option value="$PROJECT_DIR$/src/pages/auth/register.wpy" />
         <option value="$PROJECT_DIR$/src/pages/users/me.wpy" />
         <option value="$PROJECT_DIR$/src/utils/api.js" />
-        <option value="$PROJECT_DIR$/src/app.wpy" />
         <option value="$PROJECT_DIR$/src/utils/util.js" />
-        <option value="$PROJECT_DIR$/src/pages/topics/index.wpy" />
         <option value="$PROJECT_DIR$/src/pages/users/edit.wpy" />
         <option value="$PROJECT_DIR$/dist/pages/topics/index.js" />
+        <option value="$PROJECT_DIR$/src/app.wpy" />
+        <option value="$PROJECT_DIR$/src/pages/topics/index.wpy" />
+        <option value="$PROJECT_DIR$/src/pages/topics/show.wpy" />
       </list>
     </option>
   </component>
@@ -76,8 +75,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="347" />
-    <option name="y" value="144" />
+    <option name="x" value="409" />
+    <option name="y" value="90" />
     <option name="width" value="1090" />
     <option name="height" value="585" />
   </component>
@@ -200,15 +199,15 @@
       <option name="presentableId" value="Default" />
       <updated>1544612493329</updated>
       <workItem from="1544612494644" duration="29181000" />
-      <workItem from="1545015130288" duration="2871000" />
+      <workItem from="1545015130288" duration="3389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32052000" />
+    <option name="totallyTimeSpent" value="32570000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="347" y="144" width="1090" height="585" extended-state="0" />
+    <frame x="409" y="90" width="1090" height="585" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -248,7 +247,7 @@
         <state relative-caret-position="500">
           <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
           <folding>
-            <element signature="e#3746#3769#0" expanded="true" />
+            <element signature="e#3782#3805#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -480,14 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.wpy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/style/widget/weui-panel/weui-panel.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -547,12 +538,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.wpy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="48" column="13" lean-forward="true" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/topics/index.wpy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="145" column="23" lean-forward="false" selection-start-line="145" selection-start-column="6" selection-end-line="145" selection-end-column="23" />
+        <state relative-caret-position="80">
+          <caret line="101" column="64" lean-forward="false" selection-start-line="101" selection-start-column="64" selection-end-line="101" selection-end-column="64" />
           <folding>
-            <element signature="e#3746#3769#0" expanded="true" />
+            <element signature="e#3782#3805#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/topics/show.wpy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="87" column="9" lean-forward="false" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
+          <folding>
+            <element signature="e#1381#1404#0" expanded="true" />
           </folding>
         </state>
       </provider>
