@@ -54,5 +54,12 @@
       this.requestData.url = 'topics/' + options.topic_id + '/replies'
       this.getReplies()
     }
+    onShow() {
+      this.$parent.checkRefreshPages(this.getCurrentPages().pop().route, () => {
+        this.noMoreData = false
+        this.page = 1
+        this.getReplies(true)
+      })
+    }
   }
 </script>
