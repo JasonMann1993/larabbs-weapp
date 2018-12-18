@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90ef65a8-83c9-4c05-b634-3cb31baca1a3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/app.wpy" afterPath="$PROJECT_DIR$/src/app.wpy" />
-      <change beforePath="$PROJECT_DIR$/src/pages/users/me.wpy" afterPath="$PROJECT_DIR$/src/pages/users/me.wpy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/images/trash.png" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/mixins/replyMixin.js" afterPath="$PROJECT_DIR$/src/mixins/replyMixin.js" />
+      <change beforePath="$PROJECT_DIR$/src/pages/replies/index.wpy" afterPath="$PROJECT_DIR$/src/pages/replies/index.wpy" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,16 +16,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.wpy" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pages/notifications/index.wpy">
+      <file leaf-file-name="replyMixin.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mixins/replyMixin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="124" column="5" lean-forward="false" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
-              <folding>
-                <element signature="n#style#0;n#view#0;n#navigator#0;n#view#0;n#view#0;n#repeat#0;n#view#0;n#view#0;n#view#0;n#view#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#view#1;n#navigator#0;n#view#0;n#view#0;n#repeat#0;n#view#0;n#view#0;n#view#0;n#view#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="e#1757#1780#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="435">
+              <caret line="121" column="24" lean-forward="true" selection-start-line="121" selection-start-column="24" selection-end-line="121" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -45,6 +43,7 @@
       <find>getCurrentPages</find>
       <find>onshow</find>
       <find>check</find>
+      <find>await</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -65,17 +64,17 @@
         <option value="$PROJECT_DIR$/dist/pages/topics/index.js" />
         <option value="$PROJECT_DIR$/src/components/topicList.wpy" />
         <option value="$PROJECT_DIR$/src/pages/topics/userIndex.wpy" />
-        <option value="$PROJECT_DIR$/src/mixins/replyMixin.js" />
         <option value="$PROJECT_DIR$/src/pages/replies/userIndex.wpy" />
         <option value="$PROJECT_DIR$/src/pages/users/show.wpy" />
         <option value="$PROJECT_DIR$/src/pages/replies/create.wpy" />
-        <option value="$PROJECT_DIR$/src/pages/replies/index.wpy" />
         <option value="$PROJECT_DIR$/src/pages/topics/show.wpy" />
         <option value="$PROJECT_DIR$/src/mixins/unreadCount.js" />
         <option value="$PROJECT_DIR$/src/pages/topics/index.wpy" />
         <option value="$PROJECT_DIR$/src/app.wpy" />
         <option value="$PROJECT_DIR$/src/pages/users/me.wpy" />
         <option value="$PROJECT_DIR$/src/pages/notifications/index.wpy" />
+        <option value="$PROJECT_DIR$/src/pages/replies/index.wpy" />
+        <option value="$PROJECT_DIR$/src/mixins/replyMixin.js" />
       </list>
     </option>
   </component>
@@ -92,7 +91,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="308" />
+    <option name="x" value="340" />
     <option name="y" value="90" />
     <option name="width" value="1090" />
     <option name="height" value="585" />
@@ -236,15 +235,15 @@
       <option name="presentableId" value="Default" />
       <updated>1544612493329</updated>
       <workItem from="1544612494644" duration="29181000" />
-      <workItem from="1545015130288" duration="14280000" />
+      <workItem from="1545015130288" duration="15642000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43461000" />
+    <option name="totallyTimeSpent" value="44823000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="308" y="90" width="1090" height="585" extended-state="0" />
+    <frame x="340" y="90" width="1090" height="585" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -555,38 +554,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mixins/replyMixin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#23#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/replies/userIndex.wpy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding>
-            <element signature="e#1519#1542#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/style/widget/weui-button/weui-button.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/replies/index.wpy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -680,6 +651,30 @@
             <element signature="n#style#0;n#view#1;n#navigator#0;n#view#0;n#view#0;n#repeat#0;n#view#0;n#view#0;n#view#0;n#view#0;n#template#0;n#!!top" expanded="true" />
             <element signature="e#1757#1780#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/replies/userIndex.wpy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/replies/index.wpy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mixins/replyMixin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="121" column="24" lean-forward="true" selection-start-line="121" selection-start-column="24" selection-end-line="121" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
