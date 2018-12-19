@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90ef65a8-83c9-4c05-b634-3cb31baca1a3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/images/trash.png" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/app.wpy" afterPath="$PROJECT_DIR$/src/app.wpy" />
       <change beforePath="$PROJECT_DIR$/src/mixins/replyMixin.js" afterPath="$PROJECT_DIR$/src/mixins/replyMixin.js" />
-      <change beforePath="$PROJECT_DIR$/src/pages/replies/index.wpy" afterPath="$PROJECT_DIR$/src/pages/replies/index.wpy" />
+      <change beforePath="$PROJECT_DIR$/src/pages/auth/login.wpy" afterPath="$PROJECT_DIR$/src/pages/auth/login.wpy" />
+      <change beforePath="$PROJECT_DIR$/src/pages/auth/register.wpy" afterPath="$PROJECT_DIR$/src/pages/auth/register.wpy" />
+      <change beforePath="$PROJECT_DIR$/src/pages/topics/show.wpy" afterPath="$PROJECT_DIR$/src/pages/topics/show.wpy" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +20,8 @@
       <file leaf-file-name="replyMixin.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/mixins/replyMixin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="121" column="24" lean-forward="true" selection-start-line="121" selection-start-column="24" selection-end-line="121" selection-end-column="24" />
+            <state relative-caret-position="268">
+              <caret line="64" column="77" lean-forward="false" selection-start-line="64" selection-start-column="77" selection-end-line="64" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -44,6 +45,11 @@
       <find>onshow</find>
       <find>check</find>
       <find>await</find>
+      <find>onl</find>
+      <find>201</find>
+      <find>compu</find>
+      <find>cand</find>
+      <find>cande</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -53,11 +59,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/pages/auth/login.wpy" />
         <option value="$PROJECT_DIR$/src/style/widget/weui-animate/weui-animate.less" />
         <option value="$PROJECT_DIR$/src/pages/index.wpy" />
         <option value="$PROJECT_DIR$/src/pages/user.wpy" />
-        <option value="$PROJECT_DIR$/src/pages/auth/register.wpy" />
         <option value="$PROJECT_DIR$/src/utils/api.js" />
         <option value="$PROJECT_DIR$/src/utils/util.js" />
         <option value="$PROJECT_DIR$/src/pages/users/edit.wpy" />
@@ -67,13 +71,15 @@
         <option value="$PROJECT_DIR$/src/pages/replies/userIndex.wpy" />
         <option value="$PROJECT_DIR$/src/pages/users/show.wpy" />
         <option value="$PROJECT_DIR$/src/pages/replies/create.wpy" />
-        <option value="$PROJECT_DIR$/src/pages/topics/show.wpy" />
         <option value="$PROJECT_DIR$/src/mixins/unreadCount.js" />
         <option value="$PROJECT_DIR$/src/pages/topics/index.wpy" />
-        <option value="$PROJECT_DIR$/src/app.wpy" />
         <option value="$PROJECT_DIR$/src/pages/users/me.wpy" />
         <option value="$PROJECT_DIR$/src/pages/notifications/index.wpy" />
         <option value="$PROJECT_DIR$/src/pages/replies/index.wpy" />
+        <option value="$PROJECT_DIR$/src/pages/auth/login.wpy" />
+        <option value="$PROJECT_DIR$/src/pages/auth/register.wpy" />
+        <option value="$PROJECT_DIR$/src/app.wpy" />
+        <option value="$PROJECT_DIR$/src/pages/topics/show.wpy" />
         <option value="$PROJECT_DIR$/src/mixins/replyMixin.js" />
       </list>
     </option>
@@ -91,8 +97,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="340" />
-    <option name="y" value="90" />
+    <option name="x" value="654" />
+    <option name="y" value="144" />
     <option name="width" value="1090" />
     <option name="height" value="585" />
   </component>
@@ -124,65 +130,6 @@
               <item name="larabbs-weapp" type="b2602c69:ProjectViewProjectNode" />
               <item name="larabbs-weapp" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="larabbs-weapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="larabbs-weapp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="larabbs-weapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="larabbs-weapp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="mixins" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="larabbs-weapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="larabbs-weapp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="larabbs-weapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="larabbs-weapp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="auth" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="larabbs-weapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="larabbs-weapp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="notifications" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="larabbs-weapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="larabbs-weapp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="replies" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="larabbs-weapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="larabbs-weapp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="topics" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="larabbs-weapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="larabbs-weapp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="users" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="larabbs-weapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="larabbs-weapp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="utils" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -235,18 +182,18 @@
       <option name="presentableId" value="Default" />
       <updated>1544612493329</updated>
       <workItem from="1544612494644" duration="29181000" />
-      <workItem from="1545015130288" duration="15642000" />
+      <workItem from="1545015130288" duration="16801000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44823000" />
+    <option name="totallyTimeSpent" value="45982000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="340" y="90" width="1090" height="585" extended-state="0" />
+    <frame x="654" y="144" width="1090" height="585" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24954128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -278,13 +225,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/style/base/variable/color.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/style/widget/weui-animate/weui-animate.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-674">
@@ -368,23 +308,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="168" column="2" lean-forward="false" selection-start-line="168" selection-start-column="2" selection-end-line="168" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/index.wpy" />
-    <entry file="file://$PROJECT_DIR$/src/pages/auth/register.wpy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="203" column="33" lean-forward="true" selection-start-line="203" selection-start-column="33" selection-end-line="203" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/style/widget/weui-media-box/weui-media-box.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -570,14 +494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/topics/show.wpy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/replies/create.wpy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -585,14 +501,6 @@
           <folding>
             <element signature="e#668#691#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/auth/login.wpy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-327">
-          <caret line="95" column="24" lean-forward="true" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,14 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="81" column="42" lean-forward="true" selection-start-line="81" selection-start-column="42" selection-end-line="81" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.wpy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -670,10 +570,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/auth/login.wpy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="125" column="29" lean-forward="true" selection-start-line="125" selection-start-column="29" selection-end-line="125" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/auth/register.wpy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="193" column="20" lean-forward="true" selection-start-line="193" selection-start-column="20" selection-end-line="193" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1295">
+          <caret line="164" column="2" lean-forward="false" selection-start-line="164" selection-start-column="2" selection-end-line="164" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.wpy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="187" column="33" lean-forward="true" selection-start-line="187" selection-start-column="33" selection-end-line="187" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/topics/show.wpy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="103" column="12" lean-forward="true" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/mixins/replyMixin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="180" column="48" lean-forward="false" selection-start-line="180" selection-start-column="44" selection-end-line="180" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/mixins/replyMixin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="121" column="24" lean-forward="true" selection-start-line="121" selection-start-column="24" selection-end-line="121" selection-end-column="24" />
+        <state relative-caret-position="268">
+          <caret line="64" column="77" lean-forward="false" selection-start-line="64" selection-start-column="77" selection-end-line="64" selection-end-column="77" />
           <folding />
         </state>
       </provider>
